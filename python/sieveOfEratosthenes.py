@@ -33,4 +33,4 @@ if __name__ == '__main__':
     n = 20
     print("Following are the prime numbers smaller"),
     print("than or equal to", n)
-    SieveOfEratosthenes(n)
+    SieveOfErasthenes(n)
